@@ -1,7 +1,7 @@
 <div align="center"><img  alt="logo" width="300"  src="img/logo-readme.png"></div>
 <br>
 <div>
-    <p> Projeto de uma landing page para uma empresa de alimentação saudável.</p>
+    <p> Projeto de uma landing page responsiva para uma empresa de alimentação saudável. </p>
     <h3>💻 TECNOLOGIAS:</h3>
     <img  alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img  alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
