@@ -1,12 +1,12 @@
-<div align="center"><img  alt="logo" height="100"  src="img/logo-readme.png"></div>
+<div align="center"><img  alt="logo" width="300"  src="img/logo-readme.png"></div>
+<br>
 <div>
     <p> Projeto de uma landing page para uma empresa de alimentação saudável.</p>
     <h3>💻 TECNOLOGIAS:</h3>
     <img  alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img  alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img  alt="Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-    <br/><br/>
+    <br><br>
     <p>Desenvolvido durante o curso "Build Responsive Real-World Websites with HTML and CSS" na plataforma Udemy. </p>
 
 </div>
@@ -14,7 +14,7 @@
 <h3>▶ Como rodar:</h3>
 <div>
     <p>Abrir o "index.html" no navegador ou <a href="https://omnifood-bnc.netlify.app/">clicando aqui</a>.</p>
-    <p>O formulário para novos clientes está integrado com o Netlify, sendo possível enviar seus dados.</p>
+    <p>O formulário para novos clientes está integrado ao Netlify.</p>
 
 </div>
 
